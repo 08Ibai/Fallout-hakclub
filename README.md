@@ -1,4 +1,4 @@
-[MOB.csv](https://github.com/user-attachments/files/26467799/MOB.csv)# Puneterocargador
+# Puneterocargador
 
 This product is a 30W MagSafe charger easy to do and so cheaper, is compatible with all the phones can suport magsafe.
 
@@ -27,7 +27,7 @@ Cheaper.
 
 # Mob
 
-[Uploading MOB.csv…]()
+[MOB.csv](https://github.com/user-attachments/files/26467799/MOB.csv)
 
 
 
