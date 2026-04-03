@@ -25,11 +25,11 @@ Cheaper.
 
 <img width="704" height="767" alt="3D model with a example" src="https://github.com/user-attachments/assets/f5f7a488-00fd-4c44-ac43-26cdbe138b0b" />
 
-# Mob
+## Mob
 
-[MOB puneterocargador.csv](https://github.com/user-attachments/files/26467919/MOB.puneterocargador.csv)
-Part Name,Quantity,link,Unit price,Total + Shipping,Total + Shiping USD
-Apple Magsafe,1,https://es.aliexpress.com/item/1005008703569387.html?spm=a2g0o.detail.0.0.6520CJaFCJaFN9&mp=1&gatewayAdapt=glo2esp,"3,04€","3,04€","$3,5"
+| Part Name     | Quantity |	link	                                                                                                            | Unit price |	Total |	Total  USD |
+| ------------- | -------- | ------------------------------------------------------------------------------------------------------------------ | ---------- | ------ | ---------- |
+| Apple Magsafe |	      1	 | https://es.aliexpress.com/item/1005008703569387.html?spm=a2g0o.detail.0.0.6520CJaFCJaFN9&mp=1&gatewayAdapt=glo2esp |	3,04€      | 3,04€  | $3,5       |
 
 
 #  Magazine page
