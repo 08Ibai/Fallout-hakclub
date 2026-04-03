@@ -1,4 +1,4 @@
-# Puneterocargador
+[MOB.csv](https://github.com/user-attachments/files/26467799/MOB.csv)# Puneterocargador
 
 This product is a 30W MagSafe charger easy to do and so cheaper, is compatible with all the phones can suport magsafe.
 
@@ -24,6 +24,14 @@ Cheaper.
 <img width="374" height="339" alt="3D model back part" src="https://github.com/user-attachments/assets/7557f4c5-4f9c-4539-88a4-57a5c1457c55" />
 
 <img width="704" height="767" alt="3D model with a example" src="https://github.com/user-attachments/assets/f5f7a488-00fd-4c44-ac43-26cdbe138b0b" />
+
+# Mob
+
+[Up,,,,,,,,,,,,
+Part Name,,Quantity,,Link,,,,Unit Price,,Total + Shipping,,Total + Shipping in USD
+,,,,,,,,,,,,
+Apple magsafe,,1,,https://es.aliexpress.com/item/1005008703569387.html?spm=a2g0o.detail.0.0.6520CJaFCJaFN9&mp=1&gatewayAdapt=glo2esp,,,,"3,04€",,"3,04€",,"$3,50"loading MOB.csv…]()
+
 
 #  Magazine page
 
