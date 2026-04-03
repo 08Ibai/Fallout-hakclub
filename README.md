@@ -25,7 +25,7 @@ Cheaper.
 
 <img width="704" height="767" alt="3D model with a example" src="https://github.com/user-attachments/assets/f5f7a488-00fd-4c44-ac43-26cdbe138b0b" />
 
-## Mob
+## Bom
 
 | Part Name     | Quantity |	link	                                                                                                            | Unit price |	Total |	Total  USD |
 | ------------- | -------- | ------------------------------------------------------------------------------------------------------------------ | ---------- | ------ | ---------- |
